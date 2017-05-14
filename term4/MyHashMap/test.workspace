@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="test" Database="">
+  <Project Name="MyMap" Path="MyMap/MyMap.project" Active="Yes"/>
+  <Project Name="MyMapTests" Path="MyMapTests/MyMapTests.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="MyMap" ConfigName="Debug"/>
+      <Project Name="MyMapTests" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="no">
+      <Environment/>
+      <Project Name="MyMap" ConfigName="Release"/>
+      <Project Name="MyMapTests" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
